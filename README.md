@@ -1,3 +1,10 @@
+#Participantes
+
+Victor Borges Quintella de Almeida - 2544963
+Kathleen Aquino - 2364196
+
+---
+
 # 🤖 MonoIA — Assistente Financeiro com IA
 
 > Chatbot financeiro inteligente para consulta e gestão de cartão de crédito, com autenticação via CPF e operações CRUD em banco de dados local.
